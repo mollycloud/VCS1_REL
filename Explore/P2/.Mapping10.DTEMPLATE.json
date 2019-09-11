@@ -17,8 +17,8 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
-        "documentState" : "VALID"
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
       }
     }
   },

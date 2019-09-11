@@ -16,8 +16,8 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "AA",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
@@ -78,8 +78,8 @@
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
-        "documentState" : "VALID"
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
       }
     },
     "path" : "/Explore/P2"

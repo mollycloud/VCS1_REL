@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9pZnAWNQxzTkfSNYa4Oauo",
+    "name" : "Project_withassetsincheckoutstate",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "52uvewkbhowkM4jA420z0r",
-    "name" : "MappingTask3",
+    "id" : "2Kg0lm8JMwEhgEcvag34QB",
+    "name" : "mct_m_joiner_few_ports_name_common",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950Z00000000003F"
+        "repoHandle" : "0100950Z000000000039"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,15 +17,38 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "d1orocz2OoelqjotpnjcAN",
-    "name" : "psvrlxfrs2001",
+    "id" : "gMFEcH9tB8IbOfeXNinMoA",
+    "name" : "m_joiner_few_ports_name_common",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100951700000000004Q"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "cmd_joiner_tc038",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/GA/Joiner"
+  }, {
+    "id" : "8uAogUe9LEGhG13v4xx082",
+    "name" : "Windows",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +56,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009525000000000002"
+        "repoHandle" : "01009525000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,28 +67,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "fyKla1GFJcacDVmI1u6YYf",
-    "name" : "Mapping13",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100951700000000005M"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Extracts all or a subset of data from a source and loads it to a dynamically created target.\n\nIf you create a relational target, the Mapping task inserts data into the target table the first time it runs. Subsequent runs can load data using update or upsert operations. If you create a flat file target, the Mapping task re-creates the target file each time it runs.",
-        "contentType" : null,
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/A3"
-  }, {
-    "id" : "f90KPYP6Qk5egEEOjt5BIO",
-    "name" : "SK_Con_Oracle_Auto",
+    "id" : "1CCi1dA6s0ec0Xede7cD0J",
+    "name" : "SK_Con_FF_Auto",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -73,11 +76,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000A"
+        "repoHandle" : "0100950B000000000008"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
+        "description" : "Flat File connection for CMD Sorter Automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

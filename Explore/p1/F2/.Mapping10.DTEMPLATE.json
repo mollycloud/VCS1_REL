@@ -1,39 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "18jKJ5GDst8l0OtiguCwc4",
-    "name" : "Linear Taskflow1",
-    "type" : "WORKFLOW",
+    "id" : "07t6qQRlHGagYPJHokDNez",
+    "name" : "Mapping10",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950N000000000002"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    }
-  },
-  "dataFileExtension" : "zip",
-  "objectRefs" : [ {
-    "id" : "2jpfkpYlWERl0DAUhLAIud",
-    "name" : "MCT_mapping8_SRCTOTGT",
-    "type" : "MTT",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100950Z000000000003"
+        "repoHandle" : "0100951700000000000I"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -41,10 +17,31 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "7WZsSiOJCqmjqFyfc3Jeuf",
+    "name" : "flatfile2",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100950B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
     },
-    "path" : "/Explore/p1/f1"
+    "path" : "/SYS"
   } ]
 }

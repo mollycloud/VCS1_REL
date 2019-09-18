@@ -1,23 +1,23 @@
 {
   "objectInfo" : {
-    "id" : "2jpfkpYlWERl0DAUhLAIud",
-    "name" : "MCT_mapping8_SRCTOTGT",
-    "type" : "MTT",
+    "id" : "29SvY5GC4nUcNSU92NanIm",
+    "name" : "PowerCenter Task2",
+    "type" : "PCS",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950Z000000000003"
+        "repoHandle" : "0100950K000000000004"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
+        "description" : null,
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
@@ -63,28 +63,5 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "4Nmv2ykB9YjjBdiQPe51s6",
-    "name" : "Mapping8_SRCTOTGT",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100951700000000000B"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/p1/f1"
   } ]
 }

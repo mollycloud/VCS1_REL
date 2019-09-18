@@ -1,39 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "18jKJ5GDst8l0OtiguCwc4",
-    "name" : "Linear Taskflow1",
-    "type" : "WORKFLOW",
+    "id" : "4IJVFRI8ny3cmNXMdlNXCJ",
+    "name" : "Synchronization Task1",
+    "type" : "DSS",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950N000000000002"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    }
-  },
-  "dataFileExtension" : "zip",
-  "objectRefs" : [ {
-    "id" : "2jpfkpYlWERl0DAUhLAIud",
-    "name" : "MCT_mapping8_SRCTOTGT",
-    "type" : "MTT",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100950Z000000000003"
+        "repoHandle" : "0100950I000000000003"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -41,10 +17,31 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "4Anv1It0zEFl9kGblCRjEV",
+    "name" : "SUN10G",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100950B000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
     },
-    "path" : "/Explore/p1/f1"
+    "path" : "/SYS"
   } ]
 }

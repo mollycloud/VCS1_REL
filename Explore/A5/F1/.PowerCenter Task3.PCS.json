@@ -1,54 +1,31 @@
 {
   "objectInfo" : {
-    "id" : "6JvAXW80TsYlG9rMKL1pkD",
-    "name" : "MCT_FourTgts_1",
-    "type" : "MTT",
+    "id" : "aOAAELtIoadbF2VEUZ9rKF",
+    "name" : "PowerCenter Task3",
+    "type" : "PCS",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950Z00000000003I"
+        "repoHandle" : "0100950K00000000000J"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
+        "description" : null,
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "2bGkvmPsQ2oiyIjDpBBuw1",
-    "name" : "Mapping_FourTgts",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01009517000000000068"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/A5/F1"
-  }, {
-    "id" : "8drk7XnF3W2ewqxSJfXC4H",
-    "name" : "RP_MySQL",
+    "id" : "7WZsSiOJCqmjqFyfc3Jeuf",
+    "name" : "flatfile2",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -56,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000C"
+        "repoHandle" : "0100950B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -67,8 +44,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "0euCvMKXRT6kLlV57Gcw0s",
-    "name" : "psvw16qa1001",
+    "id" : "d1orocz2OoelqjotpnjcAN",
+    "name" : "psvrlxfrs2001",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
@@ -76,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009525000000000003"
+        "repoHandle" : "01009525000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

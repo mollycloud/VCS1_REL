@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "88c0RJ5VRsNjhm8VScYzs4",
+    "id" : "2bGkvmPsQ2oiyIjDpBBuw1",
     "name" : "Mapping_FourTgts",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009517000000000069"
+        "repoHandle" : "01009517000000000068"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }

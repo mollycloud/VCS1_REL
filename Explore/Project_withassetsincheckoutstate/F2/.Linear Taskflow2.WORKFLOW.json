@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5IhD8cggnCEfWMFo3e60aU",
+    "id" : "1MbKLG0dd8BfmHyMLWeuSH",
     "name" : "Linear Taskflow2",
     "type" : "WORKFLOW",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950N00000000000C"
+        "repoHandle" : "0100950N00000000000F"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : null,
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }

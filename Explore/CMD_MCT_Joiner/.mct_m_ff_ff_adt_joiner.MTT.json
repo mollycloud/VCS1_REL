@@ -55,7 +55,10 @@
       "repoInfo" : {
         "repoHandle" : "01009517000000000026"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "cmd_joiner_tc004",
         "contentType" : "JSON",

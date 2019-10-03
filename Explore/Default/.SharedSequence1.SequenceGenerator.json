@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "g3qujlzanENeTGphLgxZ4a",
-    "name" : "Mapping1",
-    "type" : "DTEMPLATE",
+    "id" : "jc0WXK0epcdgGaxnOfoTmC",
+    "name" : "SharedSequence1",
+    "type" : "SequenceGenerator",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01027M17000000000002"
+        "repoHandle" : "01027M42000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,7 +18,7 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
     }
   },

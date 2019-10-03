@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "3CPiDS5QIuWdqr56QmFzoj",
-    "name" : "Mapping8_SRCTOTGT",
+    "id" : "5HlzSGdWCLchBQJpvUieWb",
+    "name" : "Map_DlkpCache_cust_2MB_30",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009517000000000076"
+        "repoHandle" : "0100951700000000009I"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Set lookup data cache size as Auto value ",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4r2K6va9wDmdriaHLHJBwF",
-    "name" : "ldmsrc3",
+    "id" : "2Jgk6gbRqAJkAqhW26Kgco",
+    "name" : "S8_SQLSERVER2K8",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B000000000003"
+        "repoHandle" : "0100950B00000000000G"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

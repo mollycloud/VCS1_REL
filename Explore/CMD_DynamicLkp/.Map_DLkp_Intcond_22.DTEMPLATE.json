@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "4tBYXysD5M2fs0XWOst4qT",
-    "name" : "MCT_mapping8_SRCTOTGT",
-    "type" : "MTT",
+    "id" : "bExkN2ve52ueTpOglovtiP",
+    "name" : "Map_DLkp_Intcond_22",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950Z00000000003O"
+        "repoHandle" : "0100951700000000009Q"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4r2K6va9wDmdriaHLHJBwF",
-    "name" : "ldmsrc3",
+    "id" : "5zSXhrdU2O5elRT4Brj3GI",
+    "name" : "SQLSERVER2008",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B000000000003"
+        "repoHandle" : "0100950B00000000000O"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,47 +44,24 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "8DrBNBx3YINcOac74zL5CL",
-    "name" : "SUSELX12001",
-    "type" : "AgentGroup",
+    "id" : "cadiqzAEdktbPLAwV7JVuq",
+    "name" : "O1_ORACLE10G",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009525000000000007"
+        "repoHandle" : "0100950B00000000000Q"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Oracle connection for CMD Expression Automation",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "3CPiDS5QIuWdqr56QmFzoj",
-    "name" : "Mapping8_SRCTOTGT",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01009517000000000076"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/A0/F2"
   } ]
 }

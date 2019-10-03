@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "3tNcSL9yVd3bGrmhnnCVqw",
-    "name" : "Fixed-Width File Format1",
-    "type" : "FWCONFIG",
+    "id" : "9SakSqCnPWWedLabigGPyG",
+    "name" : "mplt_stored_proc",
+    "type" : "MAPPLET",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100952900000000000G"
+        "repoHandle" : "0100950L000000000013"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
       }

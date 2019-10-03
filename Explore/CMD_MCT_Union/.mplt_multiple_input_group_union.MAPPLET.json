@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "3tNcSL9yVd3bGrmhnnCVqw",
-    "name" : "Fixed-Width File Format1",
-    "type" : "FWCONFIG",
+    "id" : "4mkNVn8C60Wj2ItOuuSCA3",
+    "name" : "mplt_multiple_input_group_union",
+    "type" : "MAPPLET",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100952900000000000G"
+        "repoHandle" : "0100950L000000000016"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
       }

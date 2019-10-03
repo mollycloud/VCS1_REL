@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "4tBYXysD5M2fs0XWOst4qT",
-    "name" : "MCT_mapping8_SRCTOTGT",
+    "id" : "1pLV45yVDD0iWfGm2PpB0e",
+    "name" : "MCT_Map_DLkp_Intcond_22",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950Z00000000003O"
+        "repoHandle" : "0100950Z00000000004S"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4r2K6va9wDmdriaHLHJBwF",
-    "name" : "ldmsrc3",
+    "id" : "5zSXhrdU2O5elRT4Brj3GI",
+    "name" : "SQLSERVER2008",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B000000000003"
+        "repoHandle" : "0100950B00000000000O"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,28 +44,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "8DrBNBx3YINcOac74zL5CL",
-    "name" : "SUSELX12001",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01009525000000000007"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "3CPiDS5QIuWdqr56QmFzoj",
-    "name" : "Mapping8_SRCTOTGT",
+    "id" : "bExkN2ve52ueTpOglovtiP",
+    "name" : "Map_DLkp_Intcond_22",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -73,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009517000000000076"
+        "repoHandle" : "0100951700000000009Q"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -85,6 +65,46 @@
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/A0/F2"
+    "path" : "/Explore/CMD_DynamicLkp"
+  }, {
+    "id" : "2IJ9xp2JTsekj2MV6K6k6y",
+    "name" : "Agent_Win64",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01009525000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "cadiqzAEdktbPLAwV7JVuq",
+    "name" : "O1_ORACLE10G",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100950B00000000000Q"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Oracle connection for CMD Expression Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }

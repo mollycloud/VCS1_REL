@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "4oHCt5SkdgXiiJUJRBMzKT",
+    "name" : "MoveTest",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "to test Mapplet move",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

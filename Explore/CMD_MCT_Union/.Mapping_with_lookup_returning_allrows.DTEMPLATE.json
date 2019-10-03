@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "3tNcSL9yVd3bGrmhnnCVqw",
-    "name" : "Fixed-Width File Format1",
-    "type" : "FWCONFIG",
+    "id" : "6i7vhoQEucFlinQCagZaCo",
+    "name" : "Mapping_with_lookup_returning_allrows",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100952900000000000G"
+        "repoHandle" : "0100951700000000009G"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,7 +18,7 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },

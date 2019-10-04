@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "lS0AtQq3IGMcc2rLTo5PON",
+    "id" : "fXQC7817xoagC4Y5CuAoEZ",
     "name" : "m_seqgen_mapped_to_port_overflow_tgt",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA1700000000000L"
+        "repoHandle" : "0100951700000000003U"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "2URMUf8WBp0hRWMvw94Fig",
-    "name" : "SK_Con_Oracle_Auto",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100GA0B000000000003"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "eILspZGFCIbhQkhLkaEqcP",
+    "id" : "5yXxrwjhS74lojyvnwNmQA",
     "name" : "SK_Con_MySQL_Auto",
     "type" : "Connection",
     "metadata" : {
@@ -53,11 +33,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA0B000000000004"
+        "repoHandle" : "0100950B000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "MySQL connection for CMD Sorter automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "f90KPYP6Qk5egEEOjt5BIO",
+    "name" : "SK_Con_Oracle_Auto",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100950B00000000000A"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

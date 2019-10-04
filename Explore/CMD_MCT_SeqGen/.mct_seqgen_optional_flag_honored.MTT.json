@@ -55,7 +55,10 @@
       "repoInfo" : {
         "repoHandle" : "0100951700000000003O"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Seqgen used in pipeline is optional and honored in mapping generation",
         "contentType" : "JSON",

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4sNVTJInf8FjCCmX4lsKEP",
+    "name" : "Dictionary",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4sNVTJInf8FjCCmX4lsKEP"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -55,7 +55,10 @@
       "repoInfo" : {
         "repoHandle" : "01009517000000000080"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Run task twice - seqgen with custom initial Value and reset enabled",
         "contentType" : "JSON",

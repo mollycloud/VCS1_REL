@@ -55,7 +55,10 @@
       "repoInfo" : {
         "repoHandle" : "0100951700000000007Z"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "NEXTVAL is mapped to port with fix size and initial value is set so that integer limit is hit",
         "contentType" : "JSON",

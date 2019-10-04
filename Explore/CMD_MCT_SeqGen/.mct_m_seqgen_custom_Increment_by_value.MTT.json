@@ -55,7 +55,10 @@
       "repoInfo" : {
         "repoHandle" : "0100951700000000003G"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "seqgen with custom increment by value of 100",
         "contentType" : "JSON",

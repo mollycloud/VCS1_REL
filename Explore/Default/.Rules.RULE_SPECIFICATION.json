@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "kyg1qOjOZ4ndteFUaRM0Sj",
+    "name" : "Rules",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kyg1qOjOZ4ndteFUaRM0Sj"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

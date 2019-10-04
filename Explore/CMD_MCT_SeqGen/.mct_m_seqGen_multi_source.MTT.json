@@ -75,7 +75,10 @@
       "repoInfo" : {
         "repoHandle" : "0100951700000000003N"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "SeqGen to get input from Multi-obj source - Custom relationship",
         "contentType" : "JSON",

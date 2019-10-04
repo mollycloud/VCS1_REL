@@ -35,7 +35,10 @@
       "repoInfo" : {
         "repoHandle" : "0100950Z00000000003C"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",

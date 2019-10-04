@@ -55,7 +55,10 @@
       "repoInfo" : {
         "repoHandle" : "0100951700000000003S"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Multiple seqgen to same target with cycle disabled - Current values are updated in MCT",
         "contentType" : "JSON",

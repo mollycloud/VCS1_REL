@@ -55,7 +55,10 @@
       "repoInfo" : {
         "repoHandle" : "0100951700000000003R"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Same seqgen and Source is used for multi-target and one pipeline has active tx e.g filter",
         "contentType" : "JSON",

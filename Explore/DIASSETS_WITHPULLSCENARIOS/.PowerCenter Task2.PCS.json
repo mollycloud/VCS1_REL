@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6mltRsc03uScm15PAfufWb",
+    "id" : "1WXy19yc3AxgbbSnAqHxOc",
     "name" : "PowerCenter Task2",
     "type" : "PCS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950K00000000000A"
+        "repoHandle" : "0100950K00000000000M"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : null,
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }

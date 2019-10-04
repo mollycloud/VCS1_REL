@@ -75,7 +75,10 @@
       "repoInfo" : {
         "repoHandle" : "0100951700000000003W"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Same seqgen and 2 different source is used for multi-target",
         "contentType" : "JSON",

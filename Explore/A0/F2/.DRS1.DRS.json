@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "15HkCU9ZveFkf5330mk0k0",
+    "id" : "4H69DSmzn0KjVOkFFhKgqZ",
     "name" : "DRS1",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950G00000000000C"
+        "repoHandle" : "0100950G00000000000E"
       },
       "contextAttributes" : [ {
         "name" : "id",

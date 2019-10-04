@@ -95,7 +95,10 @@
       "repoInfo" : {
         "repoHandle" : "01009517000000000085"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Optional flag enabled for seqgen and o/p ports are not mapped - Fields are unmapped using the target Incoming rules",
         "contentType" : "JSON",

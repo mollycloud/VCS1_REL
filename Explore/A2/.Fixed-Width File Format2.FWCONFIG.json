@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "gFva0PHV5INg4EQXUXK5Ss",
+    "id" : "6HeN1VFw9a5g5DiKmjtIoa",
     "name" : "Fixed-Width File Format2",
     "type" : "FWCONFIG",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100952900000000000A"
+        "repoHandle" : "0100952900000000000J"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }

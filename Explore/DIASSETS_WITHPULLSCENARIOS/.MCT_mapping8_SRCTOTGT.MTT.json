@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4b4yVhJhUA0kNWKfYqIOWP",
+    "id" : "91UyLqtiqK3fGY9PmN7keq",
     "name" : "MCT_mapping8_SRCTOTGT",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950Z00000000000J"
+        "repoHandle" : "0100950Z00000000003M"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
@@ -44,6 +44,29 @@
     },
     "path" : "/SYS"
   }, {
+    "id" : "6wL0L33QTtLiEnwjrYuLiK",
+    "name" : "Mapping8_SRCTOTGT",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100951700000000006G"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/DIASSETS_WITHPULLSCENARIOS"
+  }, {
     "id" : "4r2K6va9wDmdriaHLHJBwF",
     "name" : "ldmsrc3",
     "type" : "Connection",
@@ -63,28 +86,5 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "0Et0RlnaZxveZ3hjIiLvMT",
-    "name" : "Mapping8_SRCTOTGT",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100951700000000001B"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/DIASSETS_WITHPULLSCENARIOS"
   } ]
 }

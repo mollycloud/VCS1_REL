@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "aRAHi81qAgwhj7o5fotPGJ",
-    "name" : "m_SP_fieldmap_partially_parameterized_SS",
-    "type" : "DTEMPLATE",
+    "id" : "3F70vs6ltjff9bxheUYIu9",
+    "name" : "mct_seqgen_seq_exhaust_after_db_commit",
+    "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010095170000000000BQ"
+        "repoHandle" : "0100950Z000000000064"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Stored Proc SS - SP_getEmpFullName",
+        "description" : "Tgt DB commit is set using Adv properties",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -44,28 +44,48 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "7QCau7UhySTeQ62EQlP8k5",
-    "name" : "SK_Con_SQLSERVER2012_Auto",
-    "type" : "Connection",
+    "id" : "lE1en39bBI9hJhgL6VPPCP",
+    "name" : "m_seqgen_DB_Tgt",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000K"
+        "repoHandle" : "010095170000000000BL"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "SeqGen NEXTVAL is stored in DB integer",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/a1"
+  }, {
+    "id" : "0euCvMKXRT6kLlV57Gcw0s",
+    "name" : "psvw16qa1001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01009525000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "1CCi1dA6s0ec0Xede7cD0J",
-    "name" : "SK_Con_FF_Auto",
+    "id" : "f90KPYP6Qk5egEEOjt5BIO",
+    "name" : "SK_Con_Oracle_Auto",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -73,11 +93,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B000000000008"
+        "repoHandle" : "0100950B00000000000A"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Flat File connection for CMD Sorter Automation",
+        "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

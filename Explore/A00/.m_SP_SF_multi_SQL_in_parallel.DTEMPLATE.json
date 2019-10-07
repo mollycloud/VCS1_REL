@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "fTtXioGd96xgHNiyFmjxy4",
+    "id" : "hkGgkrcNgKvcmj5jsfcWOJ",
     "name" : "m_SP_SF_multi_SQL_in_parallel",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010095170000000000B6"
+        "repoHandle" : "010095170000000000BU"
       },
       "contextAttributes" : [ {
         "name" : "id",

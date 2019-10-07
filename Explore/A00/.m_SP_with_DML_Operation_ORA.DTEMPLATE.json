@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "89hlYcuWPfGllBB1SQAluK",
+    "id" : "200f4APn3OzlkHhERrm7ya",
     "name" : "m_SP_with_DML_Operation_ORA",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010095170000000000B7"
+        "repoHandle" : "010095170000000000BS"
       },
       "contextAttributes" : [ {
         "name" : "id",

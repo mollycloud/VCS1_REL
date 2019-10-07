@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "aRAHi81qAgwhj7o5fotPGJ",
-    "name" : "m_SP_fieldmap_partially_parameterized_SS",
-    "type" : "DTEMPLATE",
+    "id" : "0kDMVLLLW5fdjJXpATyWum",
+    "name" : "mct_m_seqgen_2_diff_Src_multi_target",
+    "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010095170000000000BQ"
+        "repoHandle" : "0100950Z00000000005Z"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Stored Proc SS - SP_getEmpFullName",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -44,25 +44,45 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "7QCau7UhySTeQ62EQlP8k5",
-    "name" : "SK_Con_SQLSERVER2012_Auto",
-    "type" : "Connection",
+    "id" : "0euCvMKXRT6kLlV57Gcw0s",
+    "name" : "psvw16qa1001",
+    "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000K"
+        "repoHandle" : "01009525000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "kVfwz2tREmebsWnmDQATMr",
+    "name" : "m_seqgen_2_diff_Src_multi_target",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100951700000000005Y"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Same seqgen and 2 different source is used for multi-target",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/A4"
   }, {
     "id" : "1CCi1dA6s0ec0Xede7cD0J",
     "name" : "SK_Con_FF_Auto",

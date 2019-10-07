@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "aRAHi81qAgwhj7o5fotPGJ",
-    "name" : "m_SP_fieldmap_partially_parameterized_SS",
-    "type" : "DTEMPLATE",
+    "id" : "5HqD1ULzkdEcyxIVSABy2d",
+    "name" : "mct_m_seqgen_custom_initial_value_in_mct_reset_disabled",
+    "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010095170000000000BQ"
+        "repoHandle" : "0100950Z000000000060"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Stored Proc SS - SP_getEmpFullName",
+        "description" : "Run twice - Initial value is set to a new custom value of 100",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -44,22 +44,42 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "7QCau7UhySTeQ62EQlP8k5",
-    "name" : "SK_Con_SQLSERVER2012_Auto",
-    "type" : "Connection",
+    "id" : "3tvxJAXK7UbhpvC4tTQqat",
+    "name" : "m_seqgen_custom_initial_value_reset_disabled",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000K"
+        "repoHandle" : "01009517000000000060"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "seqgen with custom initial Value and reset disabled",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/A4"
+  }, {
+    "id" : "0euCvMKXRT6kLlV57Gcw0s",
+    "name" : "psvw16qa1001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01009525000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"

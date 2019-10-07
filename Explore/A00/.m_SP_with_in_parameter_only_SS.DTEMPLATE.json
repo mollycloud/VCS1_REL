@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "c5F4gHAZQWMlL3xjJ58TuO",
+    "id" : "iCSvk9mh1I5fmxhnzga6or",
     "name" : "m_SP_with_in_parameter_only_SS",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010095170000000000B4"
+        "repoHandle" : "010095170000000000BT"
       },
       "contextAttributes" : [ {
         "name" : "id",

@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "aRAHi81qAgwhj7o5fotPGJ",
-    "name" : "m_SP_fieldmap_partially_parameterized_SS",
-    "type" : "DTEMPLATE",
+    "id" : "ecMQ4iemBonbJB7TACsEwC",
+    "name" : "mct_m_seqgen_with_mapplet_src",
+    "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010095170000000000BQ"
+        "repoHandle" : "0100950Z000000000067"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Stored Proc SS - SP_getEmpFullName",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -44,25 +44,65 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "7QCau7UhySTeQ62EQlP8k5",
-    "name" : "SK_Con_SQLSERVER2012_Auto",
-    "type" : "Connection",
+    "id" : "04l3L0e82G4cjBAuxpgbkZ",
+    "name" : "mplt_seqgen_src",
+    "type" : "MAPPLET",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000K"
+        "repoHandle" : "0100950L00000000001A"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/A01/SeqGen"
+  }, {
+    "id" : "0euCvMKXRT6kLlV57Gcw0s",
+    "name" : "psvw16qa1001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01009525000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "1cIgdfxSsb5jBbYKeO0NEL",
+    "name" : "m_seqgen_with_mapplet_src",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010095170000000000BN"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "SeqGen with default properties and mapplet source is used instead of regular source",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/A4"
   }, {
     "id" : "1CCi1dA6s0ec0Xede7cD0J",
     "name" : "SK_Con_FF_Auto",

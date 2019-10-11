@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8I9daB9Y9Stl3761czibI6",
+    "id" : "4mxq8VCpNIPi3kxxz5RL29",
     "name" : "m_db_lkp_return_first_row",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA1700000000001Q"
+        "repoHandle" : "0100951700000000006Q"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "jXIo8zW76GCbUMZESik6C7",
-    "name" : "SK_Con_FF_Auto",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100GA0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Flat File connection for CMD Sorter Automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "eILspZGFCIbhQkhLkaEqcP",
+    "id" : "5yXxrwjhS74lojyvnwNmQA",
     "name" : "SK_Con_MySQL_Auto",
     "type" : "Connection",
     "metadata" : {
@@ -53,11 +33,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA0B000000000004"
+        "repoHandle" : "0100950B000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "MySQL connection for CMD Sorter automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "1CCi1dA6s0ec0Xede7cD0J",
+    "name" : "SK_Con_FF_Auto",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100950B000000000008"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Flat File connection for CMD Sorter Automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

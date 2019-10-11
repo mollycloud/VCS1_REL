@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "ktdsL7uhScKfuc5KmxHF80",
+    "id" : "aORUSCSTmyubvMjBOrPKax",
     "name" : "Mapping_Mysql_twotgts",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100951700000000006K"
+        "repoHandle" : "0100GA1700000000001K"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "8drk7XnF3W2ewqxSJfXC4H",
+    "id" : "6u0sJ7pYJvcc1CWCmDqFoq",
     "name" : "RP_MySQL",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000C"
+        "repoHandle" : "0100GA0B000000000008"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

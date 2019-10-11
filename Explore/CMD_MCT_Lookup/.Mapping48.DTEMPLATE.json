@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2fNXK1kn3iHlmPDTNveSEb",
+    "id" : "5fpCbrgtNqsgtbgY5W0HIL",
     "name" : "Mapping48",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100951700000000006O"
+        "repoHandle" : "0100GA1700000000001O"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "7XimFEUc0kGkkxlQHnSEGE",
+    "id" : "k1D6yZeMIQsjUzpivqFWWN",
     "name" : "CSV_TGT_UTF",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000D"
+        "repoHandle" : "0100GA0B000000000007"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

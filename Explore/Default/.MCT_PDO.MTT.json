@@ -1,5 +1,29 @@
 {
   "objectInfo" : {
+    "id" : "i0XeWmMJKCskNSFgeDUvWL",
+    "name" : "MCT_PDO",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100GA0Z000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
     "id" : "geSDqnYeYYFiza0A14wYGR",
     "name" : "Mapping5",
     "type" : "DTEMPLATE",
@@ -20,10 +44,9 @@
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
-    }
-  },
-  "dataFileExtension" : "zip",
-  "objectRefs" : [ {
+    },
+    "path" : "/Explore/Default"
+  }, {
     "id" : "68wqOvoOITwhNnjpwjy5YW",
     "name" : "SK_Con_Oracle_Auto_2",
     "type" : "Connection",
@@ -40,6 +63,26 @@
         "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7AotrjmIwUxlvONz6r8VwA",
+    "name" : "SUSELX12001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100GA25000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"

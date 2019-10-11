@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "avLNohFoKH2g7s5dRS7CyH",
-    "name" : "m_db_lkp_remove_few_return_fields",
+    "id" : "cXz4HnpywmOloUk5q4HAqe",
+    "name" : "m_db_lkp_incompatible_type",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA1700000000001Y"
+        "repoHandle" : "0100GA1700000000001S"
       },
       "contextAttributes" : [ {
         "name" : "id",

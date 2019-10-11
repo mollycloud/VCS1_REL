@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1VTw6OdDr7XkfvlmcM7pGG",
+    "id" : "4P0a6uzXpqZbjNpT47GBi2",
     "name" : "Mapping49",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100951700000000006Z"
+        "repoHandle" : "0100GA1700000000001Z"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "f90KPYP6Qk5egEEOjt5BIO",
+    "id" : "2URMUf8WBp0hRWMvw94Fig",
     "name" : "SK_Con_Oracle_Auto",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B00000000000A"
+        "repoHandle" : "0100GA0B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

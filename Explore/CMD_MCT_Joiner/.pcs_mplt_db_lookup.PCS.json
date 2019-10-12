@@ -1,54 +1,31 @@
 {
   "objectInfo" : {
-    "id" : "fv504kszGkylGyhtgY69M7",
-    "name" : "mct_m_joiner_all_fields_in_join_condition",
-    "type" : "MTT",
+    "id" : "aTJYJVF9pNWl108S2u71oB",
+    "name" : "pcs_mplt_db_lookup",
+    "type" : "PCS",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100SZ0Z00000000000O"
+        "repoHandle" : "0100SZ0K000000000008"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
+        "description" : null,
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "3mifboaLzKkfvJL2QlwCs5",
-    "name" : "m_joiner_all_fields_in_join_condition",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100SZ1700000000000U"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "cmd_joiner_tc027",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/CMD_MCT_Joiner"
-  }, {
-    "id" : "3VsU3xf5vk6jbzm3BYSE0W",
-    "name" : "SK_Con_MySQL_Auto",
+    "id" : "gssGLSYBfC1dL1XkxvP8AY",
+    "name" : "SK_Con_SQLServer",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -56,19 +33,19 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100SZ0B000000000003"
+        "repoHandle" : "0100SZ0B000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "MySQL connection for CMD Sorter automation",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "19j0TMLYCO0kRSsYSLdt2v",
-    "name" : "SK_Con_FF_Auto",
+    "id" : "4Xqd4vWr1uRhYIkq3IQ16a",
+    "name" : "SK_Con_Oracle",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -76,11 +53,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100SZ0B000000000002"
+        "repoHandle" : "0100SZ0B000000000006"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Flat File connection for CMD Sorter Automation",
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7ll9X5eATbtjjdAC2t9C4a",
+    "name" : "SK_Con_MySQL",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100SZ0B000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

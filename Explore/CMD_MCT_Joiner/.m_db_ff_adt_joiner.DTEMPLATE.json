@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4ycc8Eiq1QrbHR2zeIanoA",
+    "id" : "4gqpsYTr0yEfT4uRFb4zOn",
     "name" : "m_db_ff_adt_joiner",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009517000000000024"
+        "repoHandle" : "0100SZ1700000000000X"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "5OKWMGjaCoxbZrr0vG6oMi",
-    "name" : "SK_Con_MySQL_invr7saas6",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100950B000000000009"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "MySQL ODQAUTF8 connection for CMD testcases automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "1CCi1dA6s0ec0Xede7cD0J",
+    "id" : "19j0TMLYCO0kRSsYSLdt2v",
     "name" : "SK_Con_FF_Auto",
     "type" : "Connection",
     "metadata" : {
@@ -53,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B000000000008"
+        "repoHandle" : "0100SZ0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7CV6ZkZC2RakjgKpA5IGiS",
+    "id" : "fx1whpNwAedkrTM1STlFQy",
     "name" : "m_joiner_same_objName_diff_case",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009517000000000020"
+        "repoHandle" : "0100SZ1700000000000D"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "5yXxrwjhS74lojyvnwNmQA",
+    "id" : "3VsU3xf5vk6jbzm3BYSE0W",
     "name" : "SK_Con_MySQL_Auto",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B000000000005"
+        "repoHandle" : "0100SZ0B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,27 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "f90KPYP6Qk5egEEOjt5BIO",
-    "name" : "SK_Con_Oracle_Auto",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100950B00000000000A"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "1CCi1dA6s0ec0Xede7cD0J",
+    "id" : "19j0TMLYCO0kRSsYSLdt2v",
     "name" : "SK_Con_FF_Auto",
     "type" : "Connection",
     "metadata" : {
@@ -73,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950B000000000008"
+        "repoHandle" : "0100SZ0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

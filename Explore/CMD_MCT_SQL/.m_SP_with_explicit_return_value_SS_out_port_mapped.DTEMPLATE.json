@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3XS4kwHxQukk4km3tmecgd",
+    "id" : "3z5IEReBuFEgxnyurnOi2M",
     "name" : "m_SP_with_explicit_return_value_SS_out_port_mapped",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA17000000000018"
+        "repoHandle" : "0100951700000000008R"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "66t1IGOYXnngxOAbXwbXcx",
+    "id" : "7QCau7UhySTeQ62EQlP8k5",
     "name" : "SK_Con_SQLSERVER2012_Auto",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA0B000000000006"
+        "repoHandle" : "0100950B00000000000K"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "jXIo8zW76GCbUMZESik6C7",
+    "id" : "1CCi1dA6s0ec0Xede7cD0J",
     "name" : "SK_Con_FF_Auto",
     "type" : "Connection",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA0B000000000002"
+        "repoHandle" : "0100950B000000000008"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

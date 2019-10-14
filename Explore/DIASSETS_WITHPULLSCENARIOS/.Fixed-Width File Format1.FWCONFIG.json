@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8hvS8D8MYZMj3HVg0j9om0",
+    "id" : "78CFu1ARjfrhIBVDlBK84k",
     "name" : "Fixed-Width File Format1",
     "type" : "FWCONFIG",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01009529000000000006"
+        "repoHandle" : "0100952900000000000N"
       },
       "contextAttributes" : [ {
         "name" : "id",

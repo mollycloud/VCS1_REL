@@ -55,7 +55,10 @@
       "repoInfo" : {
         "repoHandle" : "010095170000000000BH"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "SeqGen to get input from Source query",
         "contentType" : "JSON",

@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "98ZGZlX6A8GdYxt4rLlvQm",
-    "name" : "mct_seqgen_Parameterized_query_Src",
+    "id" : "8Wv4AeCAn01cLXHHXZQEQL",
+    "name" : "mct_m_ff_db_adt_joiner",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100950Z00000000003S"
+        "repoHandle" : "0100950Z00000000001G"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Query Source with FF target",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "18EO2ZqmvjSkovVQDvEL8W",
-    "name" : "m_seqgen_completely_parametrized_src_tgt",
+    "id" : "gOCl4bCS7QBjcbPvMvdT8q",
+    "name" : "m_ff_db_adt_joiner",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -33,36 +33,16 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100951700000000003C"
+        "repoHandle" : "0100951700000000001W"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "SeqGen with parameterized source",
+        "description" : "cmd_joiner_tc003",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/GA/SeqGen_Old"
-  }, {
-    "id" : "5yXxrwjhS74lojyvnwNmQA",
-    "name" : "SK_Con_MySQL_Auto",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100950B000000000005"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "MySQL connection for CMD Sorter automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
+    "path" : "/Explore/CMD_MCT_Joiner"
   }, {
     "id" : "0euCvMKXRT6kLlV57Gcw0s",
     "name" : "psvw16qa1001",
@@ -80,6 +60,26 @@
         "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "f90KPYP6Qk5egEEOjt5BIO",
+    "name" : "SK_Con_Oracle_Auto",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100950B00000000000A"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"

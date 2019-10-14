@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3wl5x75K6kxdJD14URXmyM",
+    "id" : "3WjbtB447H3cENYW2bLgK7",
     "name" : "mplt_db_lkp",
     "type" : "MAPPLET",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100GA0L000000000005"
+        "repoHandle" : "0100950L00000000000I"
       },
       "contextAttributes" : [ {
         "name" : "id",

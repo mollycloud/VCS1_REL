@@ -55,10 +55,7 @@
       "repoInfo" : {
         "repoHandle" : "01009517000000000094"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Lookup on similar table and change the sort data",
         "contentType" : "JSON",

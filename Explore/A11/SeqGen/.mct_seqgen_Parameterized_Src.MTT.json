@@ -75,10 +75,7 @@
       "repoInfo" : {
         "repoHandle" : "010095170000000000ET"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "SeqGen with parameterized source",
         "contentType" : "JSON",

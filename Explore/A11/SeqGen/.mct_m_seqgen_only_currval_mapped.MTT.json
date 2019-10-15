@@ -55,10 +55,7 @@
       "repoInfo" : {
         "repoHandle" : "010095170000000000FD"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "seqgen with default properties and only Currval is mapped to target",
         "contentType" : "JSON",

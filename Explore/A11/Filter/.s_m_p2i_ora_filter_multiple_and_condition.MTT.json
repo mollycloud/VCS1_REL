@@ -75,10 +75,7 @@
       "repoInfo" : {
         "repoHandle" : "010095170000000000DQ"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Mapping pushed from PC to ICS : m_p2i_ora_filter_multiple_and_condition",
         "contentType" : "JSON",

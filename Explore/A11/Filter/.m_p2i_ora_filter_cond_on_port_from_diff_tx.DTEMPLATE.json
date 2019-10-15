@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "7NQzmBN6D2olGsACQUB18k",
+    "name" : "m_p2i_ora_filter_cond_on_port_from_diff_tx",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010095170000000000DI"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Mapping pushed from PC to ICS : m_p2i_ora_filter_cond_on_port_from_diff_tx",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}

@@ -95,10 +95,7 @@
       "repoInfo" : {
         "repoHandle" : "0100951700000000004U"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "cmd_joiner_tc032  tc033",
         "contentType" : "JSON",

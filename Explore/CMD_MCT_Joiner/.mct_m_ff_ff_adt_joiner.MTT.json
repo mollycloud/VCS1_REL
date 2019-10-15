@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3pObG20tqgidAGezxarmyM",
+    "id" : "8CW4yeBMFOSkt439GtEUcn",
     "name" : "mct_m_ff_ff_adt_joiner",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100SZ0Z000000000004"
+        "repoHandle" : "0100950Z00000000000O"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,28 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "19j0TMLYCO0kRSsYSLdt2v",
-    "name" : "SK_Con_FF_Auto",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100SZ0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Flat File connection for CMD Sorter Automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "8NuyY32BdYmgW91OyrAmUu",
-    "name" : "Agent_Win64",
+    "id" : "0euCvMKXRT6kLlV57Gcw0s",
+    "name" : "psvw16qa1001",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
@@ -53,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100SZ25000000000002"
+        "repoHandle" : "01009525000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "5QMR61p3cuFdAP1mdowxyz",
+    "id" : "6nLJY1u13O8cCMGAo3hpO5",
     "name" : "m_ff_ff_adt_joiner",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -73,12 +53,9 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100SZ1700000000000O"
+        "repoHandle" : "01009517000000000026"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "cmd_joiner_tc004",
         "contentType" : "JSON",
@@ -86,5 +63,25 @@
       }
     },
     "path" : "/Explore/CMD_MCT_Joiner"
+  }, {
+    "id" : "1CCi1dA6s0ec0Xede7cD0J",
+    "name" : "SK_Con_FF_Auto",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100950B000000000008"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Flat File connection for CMD Sorter Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }

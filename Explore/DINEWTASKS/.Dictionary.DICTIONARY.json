@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "7zaGWABFgkXlbWor0Z43s2",
+    "name" : "Dictionary",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "7zaGWABFgkXlbWor0Z43s2"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
